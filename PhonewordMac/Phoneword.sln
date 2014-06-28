@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phoneword_IOS", "Phoneword_IOS\Phoneword_IOS.csproj", "{4CC87CEC-1C29-405F-89BA-ACF0098DE55E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4CC87CEC-1C29-405F-89BA-ACF0098DE55E}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{4CC87CEC-1C29-405F-89BA-ACF0098DE55E}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{4CC87CEC-1C29-405F-89BA-ACF0098DE55E}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{4CC87CEC-1C29-405F-89BA-ACF0098DE55E}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{4CC87CEC-1C29-405F-89BA-ACF0098DE55E}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{4CC87CEC-1C29-405F-89BA-ACF0098DE55E}.Debug|iPhone.Build.0 = Debug|iPhone
+		{4CC87CEC-1C29-405F-89BA-ACF0098DE55E}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{4CC87CEC-1C29-405F-89BA-ACF0098DE55E}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{4CC87CEC-1C29-405F-89BA-ACF0098DE55E}.Release|iPhone.ActiveCfg = Release|iPhone
+		{4CC87CEC-1C29-405F-89BA-ACF0098DE55E}.Release|iPhone.Build.0 = Release|iPhone
+		{4CC87CEC-1C29-405F-89BA-ACF0098DE55E}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{4CC87CEC-1C29-405F-89BA-ACF0098DE55E}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Phoneword_IOS\Phoneword_IOS.csproj
+	EndGlobalSection
+EndGlobal
